@@ -1,0 +1,10 @@
+//Omar Rashad 20247008
+//Amr Zaki 20245040
+#pragma once
+#ifndef UNTITLED_ORDERSTATUS_H
+
+
+enum OrderStatus {
+PENDING,PREPARING,OUT_FOR_DELIVERY,DELIVERED,CANCELED
+};
+#endif
